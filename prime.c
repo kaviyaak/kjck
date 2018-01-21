@@ -10,7 +10,7 @@ if(n%i==0)
 flag=1;
 }
 if(flag==0)
-printf("palindrome");
+printf("prime");
 else
-printf("not a palindrome");
+printf("not a prime");
 }
