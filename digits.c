@@ -8,7 +8,7 @@ void main()
 	while(a!=0)
 	{
 		b=a%10;
-		k=(k*10)+;
+		k=(k*10)+b;
 		a=a/10;
 	}
 	while(k!=0)
