@@ -2,10 +2,10 @@
 #include<conio.h>
 void main()
 {
-int a=10,b=6;
-a=a+b;
-b=a-b;
-a=a-b;
-printf("swapping of two number is %d %d",a,b);
+int i=10,j=6;
+i=i+j;
+j=i-j;
+i=i-j;
+printf("swapping of two number is %d %d",i,j);
 
 }
