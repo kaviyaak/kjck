@@ -4,7 +4,7 @@ void main()
 {
 int n;
 printf("enter the value");
-scanf("%d",&a);
+scanf("%d",&n);
 while(n%10!=0)
 {
 n++;
